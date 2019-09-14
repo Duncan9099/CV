@@ -22,6 +22,8 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 - International Baccalaureate, 36 points
 - H History (6), H Biology (6), H Geography (5), S English (6), S Mandarin (6), S Math (5), Core Points (2)
 
+- GCSE - 7A*, 2A
+
 #### Other qualifications
 
 - Passed the CFA Level 1 exam (June 2018)
@@ -30,15 +32,26 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 **HSBC Expat** (09.2018 to 08.2019)    
 *Premier Relationship Officer*  
-- Any experience relevent to software development
+- Part of the client onboarding team for new customers. Improved straight through processing rates 25%
+- Face to face client support for T/T transfers, client due diligence and personal banking issues
+- Phoned potential customers to answer mortgage enquiries
+- Performed mortgage decision in principle calls before sending applications for credit approval process
 
 **Lexington Partners** (02.2018 to 05.2018)   
 *Research Intern*  
-- Any experience relevent to software development
+- Industry research on sectors with potential investment opportunities
+- Presented industry research to senior partners in Hong Kong
 
 **CLSA** (01.2018 to 02.2018)
 *Research Intern* 
-- Any experience relevent to software development
+- Contributed to numerous daily newsletters circulated to company staff and clients
+- Researched and submitted report on crypto-currency arbitrage opportunity on the ‘Kimchi premium’ 
+- Assisted junior analyst edit initiation of coverage report on healthcare company
+
+**Aglaia Family Office** (07.2017 to 12.2017)
+*Research Intern*
+Compiled reports on technology startups and venture capital funds focused mainly on big data, 3D printing, computer vision and machine learning
+
 
 ## Skills
 

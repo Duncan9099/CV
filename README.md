@@ -1,7 +1,8 @@
 ## Duncan Skinner
 
 I am looking for a role as a Junior Full Stack Developer.
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+
+I graduated from the University of Edinburgh in July 2017 and my most recent role was with HSBC as a Premier Relationship Officer. My role as a Premier Relationship Officer included onboarding new customers, processing telegraphic transfers and assisting existing clients with their personal banking needs.  Over the past two years I have had the opportunity to intern at several firms including a private equity firm, a brokerage and a family office.  Work experience at the above firms has helped me develop key skills in problem solving, analytical thinking and organization.
 
 ## Education
 
@@ -50,20 +51,20 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 **Aglaia Family Office** (07.2017 to 12.2017)
 *Research Intern*
-Compiled reports on technology startups and venture capital funds focused mainly on big data, 3D printing, computer vision and machine learning
+- Compiled reports on technology startups and venture capital funds focused mainly on big data, 3D printing, computer vision and machine learning
 
 
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-#### This Skill
+#### Problem Solving
 
 - Experience
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Analytical Thinking
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -71,6 +72,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Relationship Building
+
 ## Hobbies
 
 Any cool stuff that makes you a super part of a software development team

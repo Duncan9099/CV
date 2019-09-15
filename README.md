@@ -1,6 +1,6 @@
 ## Duncan Skinner
 
-I am looking for a role as a Junior Full Stack Developer.
+I am an enthusiastic learner currently enrolled in a Makers Academy's 12-week intensive development bootcamp with the aspiration to take on  a role as a Junior Full Stack Developer.
 
 I graduated from the University of Edinburgh in July 2017 and my most recent role was with HSBC as a Premier Relationship Officer. My role as a Premier Relationship Officer included onboarding new customers, processing telegraphic transfers and assisting existing clients with their personal banking needs.  Over the past two years I have had the opportunity to intern at several firms including a private equity firm, a brokerage and a family office.  Work experience at the above firms has helped me develop key skills in problem solving, analytical thinking and organization.
 
@@ -56,13 +56,8 @@ I graduated from the University of Edinburgh in July 2017 and my most recent rol
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
 #### Problem Solving
-
-- Experience
-- Achievements
-- Evidence
+At HSBC Expat I was assisted in increasing lines of communication between our internal account opening teams to help increase our straight through processing (STP) rates for account opening by around 25%.  This helped our teams increase the number of account openings significantly as a result of the increased STP rates.
 
 #### Analytical Thinking
 
@@ -73,8 +68,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-#### Relationship Building
+#### Self Starter/innovation
+Last year I started a website using Shopify's platform to sell wooden glasses online.  I imported the glasses, cases and packaging from several Chinese manufacturers, and used Shopify's platforms to sell to customers in Hong Kong and Singapore.  I used the opportunity to learn basic HTML and CSS to help customise the website.  
 
 ## Hobbies
+- Sports: Fettes Victor Ludorum 2013 (sportsman of the year in Fettes College), Captain of Fettes 1st VI Squash, Captain of Fettes 1st VI Tennis, Fettes Rugby 1st XV & Hockey 1st XI, Member of Grange Hockey 2nd XI, Tough Mudder, Dalkeith 2014
+- Piano: I am learning Debussy and Liszt - with difficulty of course
 
-Any cool stuff that makes you a super part of a software development team

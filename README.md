@@ -61,12 +61,7 @@ At HSBC Expat I was assisted in increasing lines of communication between our in
 
 #### Analytical Thinking
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+At CLSA I undertook a project to assess the feasability of exploiting an arbitrage opportunity on cryptocurrency exchanges.  The opportunity primarily existed between Korean exchanges and International exchanges due to popularity of cryptocurrencies and existing capital controls in Korea.  I assessed the best method to exploit the opporunity and the requirements that we would potentially need to proceed and submitted my report to the Head of CLSA Research Hong Kong.
 
 #### Self Starter/innovation
 Last year I started a website using Shopify's platform to sell wooden glasses online.  I imported the glasses, cases and packaging from several Chinese manufacturers, and used Shopify's platforms to sell to customers in Hong Kong and Singapore.  I used the opportunity to learn basic HTML and CSS to help customise the website.  

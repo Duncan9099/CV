@@ -4,6 +4,8 @@ I am an enthusiastic learner currently enrolled in a Makers Academy's 12-week in
 
 I graduated from the University of Edinburgh in July 2017 and my most recent role was with HSBC as a Premier Relationship Officer. My role as a Premier Relationship Officer included onboarding new customers, processing telegraphic transfers and assisting existing clients with their personal banking needs.  Over the past two years I have had the opportunity to intern at several firms including a private equity firm, a brokerage and a family office.  Work experience at the above firms has helped me develop key skills in problem solving, analytical thinking and organization.
 
+**Technologies**: Ruby, Rails, Javascript, ReactJS, Rspec, Jasmine, Capybara, Cypress, PostgreSQL, Sinatra
+
 ## Projects
 | Project       | Description           | Technologies  |
 | ------------- |:-------------:| -----:|

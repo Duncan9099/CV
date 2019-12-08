@@ -4,6 +4,13 @@ I am an enthusiastic learner currently enrolled in a Makers Academy's 12-week in
 
 I graduated from the University of Edinburgh in July 2017 and my most recent role was with HSBC as a Premier Relationship Officer. My role as a Premier Relationship Officer included onboarding new customers, processing telegraphic transfers and assisting existing clients with their personal banking needs.  Over the past two years I have had the opportunity to intern at several firms including a private equity firm, a brokerage and a family office.  Work experience at the above firms has helped me develop key skills in problem solving, analytical thinking and organization.
 
+## Projects
+| Project       | Description           | Technologies  |
+| ------------- |:-------------:| -----:|
+| SportsMatch   | An application that enables users to find fellow racket sports fans to play a game with | ReactJS, Python, Flask, Cypress |
+| LizardBook    |  A team based project, working to a client's brief, to create a social media platform. | Ruby, Rails, Rspec, Capybara  |
+| Instagram Clone |  An instagram clone built using rails over a weekend   |  Ruby, Rails, Rspec, Capybara  |
+
 ## Education
 
 #### Makers Academy (09.2019 to 12.2019)

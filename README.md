@@ -7,9 +7,9 @@ I graduated from the University of Edinburgh in July 2017 and my most recent rol
 ## Projects
 | Project       | Description           | Technologies  |
 | ------------- |:-------------:| -----:|
-| SportsMatch   | An application that enables users to find fellow racket sports fans to play a game with | ReactJS, Python, Flask, Cypress |
-| LizardBook    |  A team based project, working to a client's brief, to create a social media platform. | Ruby, Rails, Rspec, Capybara  |
-| Instagram Clone |  An instagram clone built using rails over a weekend   |  Ruby, Rails, Rspec, Capybara  |
+| [SportsMatch](https://github.com/Duncan9099/sportsmatch_react)   | An application that enables users to find fellow racket sports fans to play a game with | ReactJS, Python, Flask, Cypress |
+| [LizardBook](https://github.com/Duncan9099/acebook--LizardBook-)    |  A team based project, working to a client's brief, to create a social media platform. | Ruby, Rails, Rspec, Capybara  |
+| [MakersBnB](https://github.com/Duncan9099/makersBnB) |  An AirBnB clone built using Sinatra  |  Ruby, Sinatra, Rspec, Capybara  |
 
 ## Education
 

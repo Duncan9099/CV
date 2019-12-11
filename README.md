@@ -1,4 +1,6 @@
 ## Duncan Skinner
+[Projects][Projects] |
+
 
 I am an enthusiastic learner currently enrolled in a Makers Academy's 12-week intensive development bootcamp with the aspiration to take on  a role as a Junior Full Stack Developer.
 

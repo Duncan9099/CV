@@ -1,5 +1,5 @@
 ## Duncan Skinner
-[Projects](#projects)
+[Projects](#projects) | [Education](#education) | [Experience](#experience) | [Skills](#skills) | [Hobbies](#hobbies)
 
 
 I am an enthusiastic learner currently enrolled in a Makers Academy's 12-week intensive development bootcamp with the aspiration to take on  a role as a Junior Full Stack Developer.
@@ -7,14 +7,14 @@ I am an enthusiastic learner currently enrolled in a Makers Academy's 12-week in
 I graduated from the University of Edinburgh in July 2017 and my most recent role was with HSBC as a Premier Relationship Officer. My role as a Premier Relationship Officer included onboarding new customers, processing telegraphic transfers and assisting existing clients with their personal banking needs.  Over the past two years I have had the opportunity to intern at several firms including a private equity firm, a brokerage and a family office.  Work experience at the above firms has helped me develop key skills in problem solving, analytical thinking and organization.
 
 **Technologies**: Ruby, Rails, Javascript, ReactJS, Rspec, Jasmine, Capybara, Cypress, PostgreSQL, Sinatra
-
-## Projects <a name="projects"></a>
+<a name="projects"></a>
+## Projects 
 | Project       | Description           | Technologies  |
 | ------------- |:-------------:| -----:|
 | [SportsMatch](https://github.com/Duncan9099/sportsmatch_react)   | An application that enables users to find fellow racket sports fans to play a game with | ReactJS, Python, Flask, Cypress |
 | [LizardBook](https://github.com/Duncan9099/acebook--LizardBook-)    |  A team based project, working to a client's brief, to create a social media platform. | Ruby, Rails, Rspec, Capybara  |
 | [MakersBnB](https://github.com/Duncan9099/makersBnB) |  An AirBnB clone built using Sinatra  |  Ruby, Sinatra, Rspec, Capybara  |
-
+<a name="education"></a>
 ## Education
 
 #### Makers Academy (09.2019 to 12.2019)
@@ -39,7 +39,7 @@ I graduated from the University of Edinburgh in July 2017 and my most recent rol
 #### Other qualifications
 
 - Passed the CFA Level 1 exam (June 2018)
-
+<a name="experience"></a>
 ## Experience
 
 **HSBC Expat** (09.2018 to 08.2019)    
@@ -64,7 +64,7 @@ I graduated from the University of Edinburgh in July 2017 and my most recent rol
 *Research Intern*
 - Compiled reports on technology startups and venture capital funds focused mainly on big data, 3D printing, computer vision and machine learning
 
-
+<a name="skills"></a>
 ## Skills
 
 #### Problem Solving
@@ -76,7 +76,7 @@ At CLSA I undertook a project to assess the feasability of exploiting an arbitra
 
 #### Self Starter/innovation
 Last year I started a website using Shopify's platform to sell wooden glasses online.  I imported the glasses, cases and packaging from several Chinese manufacturers, and used Shopify's platforms to sell to customers in Hong Kong and Singapore.  I used the opportunity to learn basic HTML and CSS to help customise the website.  
-
+<a name="hobbies"></a>
 ## Hobbies
 - Sports: Fettes Victor Ludorum 2013 (sportsman of the year in Fettes College), Captain of Fettes 1st VI Squash, Captain of Fettes 1st VI Tennis, Fettes Rugby 1st XV & Hockey 1st XI, Member of Grange Hockey 2nd XI, Tough Mudder, Dalkeith 2014
 - Piano: I am learning Debussy and Liszt - with difficulty of course

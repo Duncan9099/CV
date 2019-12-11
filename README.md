@@ -11,6 +11,7 @@ I graduated from the University of Edinburgh in July 2017 and my most recent rol
 <a name="projects"></a>
 ## Projects
 [back to top](#top)
+
 | Project       | Description           | Technologies  |
 | ------------- |:-------------:| -----:|
 | [SportsMatch](https://github.com/Duncan9099/sportsmatch_react)   | An application that enables users to find fellow racket sports fans to play a game with | ReactJS, Python, Flask, Cypress |
@@ -19,6 +20,7 @@ I graduated from the University of Edinburgh in July 2017 and my most recent rol
 <a name="education"></a>
 ## Education
 [back to top](#top)
+
 #### Makers Academy (09.2019 to 12.2019)
 
 - OOP, TDD, MVC, DDD
@@ -44,6 +46,7 @@ I graduated from the University of Edinburgh in July 2017 and my most recent rol
 <a name="experience"></a>
 ## Experience
 [back to top](#top)
+
 **HSBC Expat** (09.2018 to 08.2019)    
 *Premier Relationship Officer*  
 - Part of the client onboarding team for new customers. Improved straight through processing rates 25%
@@ -69,6 +72,7 @@ I graduated from the University of Edinburgh in July 2017 and my most recent rol
 <a name="skills"></a>
 ## Skills
 [back to top](#top)
+
 #### Problem Solving
 At HSBC Expat I was assisted in increasing lines of communication between our internal account opening teams to help increase our straight through processing (STP) rates for account opening by around 25%.  This helped our teams increase the number of account openings significantly as a result of the increased STP rates.
 
@@ -81,6 +85,7 @@ Last year I started a website using Shopify's platform to sell wooden glasses on
 <a name="hobbies"></a>
 ## Hobbies
 [back to top](#top)
+
 - Sports: Fettes Victor Ludorum 2013 (sportsman of the year in Fettes College), Captain of Fettes 1st VI Squash, Captain of Fettes 1st VI Tennis, Fettes Rugby 1st XV & Hockey 1st XI, Member of Grange Hockey 2nd XI, Tough Mudder, Dalkeith 2014
 - Piano: I am learning Debussy and Liszt - with difficulty of course
 

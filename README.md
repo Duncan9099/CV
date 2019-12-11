@@ -1,5 +1,5 @@
 ## Duncan Skinner
-[Projects][Projects] |
+[Projects](#projects)
 
 
 I am an enthusiastic learner currently enrolled in a Makers Academy's 12-week intensive development bootcamp with the aspiration to take on  a role as a Junior Full Stack Developer.
@@ -8,7 +8,7 @@ I graduated from the University of Edinburgh in July 2017 and my most recent rol
 
 **Technologies**: Ruby, Rails, Javascript, ReactJS, Rspec, Jasmine, Capybara, Cypress, PostgreSQL, Sinatra
 
-## Projects
+## Projects <a name="projects"></a>
 | Project       | Description           | Technologies  |
 | ------------- |:-------------:| -----:|
 | [SportsMatch](https://github.com/Duncan9099/sportsmatch_react)   | An application that enables users to find fellow racket sports fans to play a game with | ReactJS, Python, Flask, Cypress |

@@ -3,11 +3,11 @@
 [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Skills](#skills) | [Hobbies](#hobbies)
 
 
-I am a Full Stack Junior Developer who has recently completed a 16-week intensive development bootcamp at Makers Academy. I am looking for a junior role as a full stack developer at a company that will help me expand and consolidate my programming knowledge.
+I am a Full Stack Developer who has recently completed a 16-week intensive development bootcamp at Makers Academy. I am looking for a junior role as a full stack developer at a company that will help me expand and consolidate my programming knowledge.
 
 I graduated from the University of Edinburgh in July 2017 and my most recent role was with HSBC as a Premier Relationship Officer. My role as a Premier Relationship Officer included onboarding new customers, processing telegraphic transfers and assisting existing clients with their personal banking needs.  Over the past two years I have had the opportunity to intern at several firms including a private equity firm, a brokerage and a family office.  Work experience at the above firms has helped me develop key skills in problem solving, analytical thinking and organization.
 
-**Technologies**: Ruby, Rails, Javascript, ReactJS, Rspec, Jasmine, Capybara, Cypress, PostgreSQL, Sinatra
+**Technologies**: Ruby, Rails, Javascript, ReactJS, React Native, Rspec, Jasmine, Capybara, Cypress, PostgreSQL, Sinatra
 <a name="projects"></a>
 ## Projects
 [back to top](#top)

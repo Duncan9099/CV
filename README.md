@@ -1,6 +1,6 @@
 <a name="top"></a>
 ## Duncan Skinner
-[Projects](#projects) | [Software Education  [Experience](#experience) | [Education](#education) | [Skills](#skills) | [Hobbies](#hobbies)
+[Projects](#projects) | [Software Education](#softwareEducation) | [Experience](#experience) | [Education](#education) | [Skills](#skills) | [Hobbies](#hobbies)
 
 Last year I started a website using Shopify's platform to sell wooden glasses online.  I imported the glasses, cases and packaging from several Chinese manufacturers, and used Shopify's platforms to sell to customers in Hong Kong and Singapore.  Dachshund Sunglasses (please forgive the name) was where I was first introducted to coding.  Shopify's website allowed me to alter the HTML and CSS on my page.  I quickly became interested in learning more about programming and after extensive research and conversations with some friends in software development I enrolled myself in Makers Academy, a 16-week intensive software development bootcamp which focused on teaching concepts such as object-orientated programming, pair programming, TDD and agile process. 
 

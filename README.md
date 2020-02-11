@@ -32,34 +32,25 @@ Prior to joining Makers, I was working at HSBC as a Premier Relationship Officer
 ## Experience
 [back to top](#top)
 
-**HSBC Expat** (09.2018 to 08.2019)    
-*Premier Relationship Officer*  
-- Part of the client onboarding team for new customers. Improved straight through processing rates 25%
-- Face to face client support for T/T transfers, client due diligence and personal banking issues
-- Phoned potential customers to answer mortgage enquiries
-- Performed mortgage decision in principle calls before sending applications for credit approval process
+**HSBC Expat** (09.2018 to 08.2019)
+*Premier Relationship Officer*
+At HSBC Expat I was assisted in increasing lines of communication between our internal account opening teams to help increase our straight through processing (STP) rates for account opening by around 25%.  This helped our teams increase the number of account openings significantly as a result of the increased STP rates.  One of my roles at HSBC was to perform decision in principle calls with our mortgage customers, this required strong communication skills from me as I had to explain in clear terms the problems, solutions and any risks involved with the transaction at hand.  This skill has been invaluable in my programming experience in pair programming and team/agile processes as I am required to succinctly explain my thought process to my partner.
 
 **Lexington Partners** (02.2018 to 05.2018)   
-*Research Intern*  
-- Industry research on sectors with potential investment opportunities
-- Presented industry research to senior partners in Hong Kong
+*Research Intern* 
+My role at Lexington Partners was to carry out industry research on sectors with potential investment opportunities which I then presented the research to senior partners in the firm to guide their investment decisions.  To avoid making mistakes in my research, I had to have a strict methodical process.  This has been a fundamental skill for me in software development especially when faced with problems and TDD. By taking a step back and applying critical thinking I am able to break down a problem and find a fresh approach to solve the issue.
 
 **CLSA** (01.2018 to 02.2018)
 *Research Intern* 
-- Contributed to numerous daily newsletters circulated to company staff and clients
-- Researched and submitted report on crypto-currency arbitrage opportunity on the ‘Kimchi premium’ 
-- Assisted junior analyst edit initiation of coverage report on healthcare company
+At CLSA I undertook a project to assess the feasability of exploiting an arbitrage opportunity on cryptocurrency exchanges.  The opportunity primarily existed between Korean exchanges and International exchanges due to popularity of cryptocurrencies and existing capital controls in Korea.  I assessed the best method to exploit the opporunity and the requirements that we would potentially need to proceed and submitted my report to the Head of CLSA Research Hong Kong.  Part of my role also included writing daily newsletters, this required a keen attention to detail as it was distributed to all members of staff in the company.  This skill has been invaluable in my development in coding, especially in my debugging process as I have been able to focus on the details of the problem to gain visibility.
 
 **Aglaia Family Office** (07.2017 to 12.2017)
 *Research Intern*
-- Compiled reports on technology startups and venture capital funds focused mainly on big data, 3D printing, computer vision and machine learning
+At Aglaia I compiled reports on technology startups and venture capital funds focused mainly on big data, 3D printing, computer vision and machine learning
 
 <a name="education"></a>
 ## Education
 [back to top](#top)
-
-
-
 
 #### University of Edinburgh (09.2013 to 07.2017)
 
@@ -80,10 +71,6 @@ Prior to joining Makers, I was working at HSBC as a Premier Relationship Officer
 <a name="skills"></a>
 ## Skills
 [back to top](#top)
-
-#### Problem Solving
-At HSBC Expat I was assisted in increasing lines of communication between our internal account opening teams to help increase our straight through processing (STP) rates for account opening by around 25%.  This helped our teams increase the number of account openings significantly as a result of the increased STP rates.
-
 #### Analytical Thinking
 
 At CLSA I undertook a project to assess the feasability of exploiting an arbitrage opportunity on cryptocurrency exchanges.  The opportunity primarily existed between Korean exchanges and International exchanges due to popularity of cryptocurrencies and existing capital controls in Korea.  I assessed the best method to exploit the opporunity and the requirements that we would potentially need to proceed and submitted my report to the Head of CLSA Research Hong Kong.
